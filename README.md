@@ -27,10 +27,10 @@ An image of an Iranian National ID card:
 ### Output
 
 Id identification stages:
-[Identification stage](Second.png)
+[Identification stage](Second.jpg)
 
 Id cropping stage:
-[Cropping stage](Third.png)
+[Cropping stage](Third.jpg)
 
 ```json
 {
