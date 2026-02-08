@@ -1,0 +1,7 @@
+ultralytics==8.*
+opencv-python
+numpy
+torch
+torchvision
+streamlit
+matplotlib
