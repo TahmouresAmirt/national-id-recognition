@@ -22,9 +22,16 @@ This project focuses on practical, real-world scenarios and is designed to work 
 ### Input
 An image of an Iranian National ID card:
 
-![Sample Input](sample_input.jpg)
+![Sample Input](First.jpg)
 
 ### Output
+
+Id identification stages:
+[Identification stage](Second.png)
+
+Id cropping stage:
+[Cropping stage](Third.png)
+
 ```json
 {
   "code": "2980231002",
